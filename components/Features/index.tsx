@@ -12,7 +12,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="We help with end-to-end AI compliance, from risk assessment at onboard to real-time monitoring after deployment."
             center
           />
 

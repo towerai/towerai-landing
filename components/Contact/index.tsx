@@ -12,10 +12,10 @@ const Contact = () => {
               "
             >
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
-                Need Help? Open a Ticket
+                Schedule a call
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                Our support team will get back to you ASAP via email.
+                Speak with one of our team members to discuss how TowerAI can help your business with AI governance and risk. 
               </p>
               <form>
                 <div className="-mx-4 flex flex-wrap">
@@ -60,14 +60,14 @@ const Contact = () => {
                       <textarea
                         name="message"
                         rows={5}
-                        placeholder="Enter your Message"
+                        placeholder="Enter your company's needs"
                         className="w-full resize-none rounded-md border border-transparent py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none dark:bg-[#242B51] dark:shadow-signUp"
                       ></textarea>
                     </div>
                   </div>
                   <div className="w-full px-4">
                     <button className="rounded-md bg-primary py-4 px-9 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp">
-                      Submit Ticket
+                      Schedule a call
                     </button>
                   </div>
                 </div>

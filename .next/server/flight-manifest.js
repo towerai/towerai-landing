@@ -26,106 +26,54 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./components/Pricing/index.tsx": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js": {
       "": {
-        "id": "(sc_client)/./components/Pricing/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/page:app/page"
+          "app/blog-details/page:app/blog-details/page"
         ],
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./components/Pricing/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/page:app/page"
+          "app/blog-details/page:app/blog-details/page"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/Pricing/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/page:app/page"
+          "app/blog-details/page:app/blog-details/page"
         ],
         "async": false
       }
     },
-    "(app-client)/./components/Video/index.tsx": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js": {
       "": {
-        "id": "(sc_client)/./components/Video/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/page:app/page"
+          "app/error/page:app/error/page"
         ],
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./components/Video/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/page:app/page"
+          "app/error/page:app/error/page"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/Video/index.tsx",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/page:app/page"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "default",
-        "chunks": [
-          "app/layout:app/layout"
+          "app/error/page:app/error/page"
         ],
         "async": false
       }
@@ -156,9 +104,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js": {
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -166,7 +114,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -174,7 +122,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -182,9 +130,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js": {
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -192,7 +140,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -200,7 +148,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -208,9 +156,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js": {
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -218,7 +166,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -226,7 +174,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -234,9 +182,9 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+    "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js": {
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -244,7 +192,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "*",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -252,7 +200,7 @@ self.__RSC_MANIFEST={
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "id": "(sc_client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
         "name": "default",
         "chunks": [
           "app-client-internals:app-client-internals"
@@ -267,7 +215,7 @@ self.__RSC_MANIFEST={
       "static/css/app/layout.css"
     ],
     "/Users/jjhennessy/Developer/tower-dev/towerai-landing/app/page": [
-      "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
+      "static/css/_app-client_node_modules_pnpm_next_font_13_1_6_node_modules_next_font_google_target_css_path_-be123c.css"
     ]
   },
   "/Users/jjhennessy/Developer/tower-dev/towerai-landing/components/Common/ScrollUp.tsx": {
@@ -296,163 +244,111 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/components/Pricing/index.tsx": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js": {
     "": {
-      "id": "(app-client)/./components/Pricing/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./components/Pricing/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./components/Pricing/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/components/Video/index.tsx": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/image.js": {
     "": {
-      "id": "(app-client)/./components/Video/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./components/Video/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./components/Video/index.tsx",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:app/page"
+        "app/blog-details/page:app/blog-details/page"
       ],
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/image.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/image.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/link.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:app/layout"
+        "app/error/page:app/error/page"
       ],
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:app/layout"
-      ],
-      "async": false
-    }
-  },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/react-modal-video/css/modal-video.css": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/react-modal-video@2.0.0_@babel+core@7.21.4_eslint-plugin-jsx-a11y@6.7.1_eslint-plugin-react-h_kpseabenoczsuowi4jqmj5kliy/node_modules/react-modal-video/css/modal-video.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -496,9 +392,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/components/app-router.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -506,7 +402,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -514,7 +410,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -522,9 +418,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -532,7 +428,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -540,7 +436,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -548,9 +444,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/components/error-boundary.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -558,7 +454,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -566,7 +462,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -574,9 +470,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -584,7 +480,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -592,7 +488,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -600,9 +496,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/components/layout-router.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -610,7 +506,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -618,7 +514,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -626,9 +522,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -636,7 +532,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -644,7 +540,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -652,9 +548,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -662,7 +558,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -670,7 +566,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -678,9 +574,9 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -688,7 +584,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -696,7 +592,7 @@ self.__RSC_MANIFEST={
       "async": false
     },
     "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "id": "(app-client)/./node_modules/.pnpm/next@13.1.6_@babel+core@7.21.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
@@ -704,12 +600,12 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+  "/Users/jjhennessy/Developer/tower-dev/towerai-landing/node_modules/.pnpm/@next+font@13.1.6/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
+        "static/css/_app-client_node_modules_pnpm_next_font_13_1_6_node_modules_next_font_google_target_css_path_-be123c.css"
       ]
     }
   }
